@@ -145,7 +145,7 @@
                 `;
                 $(".mini-cart-items").append(cartItemHTML);
             });
-            $(".mini-cart-content").append(`<div class="mini-cart-action clearfix"><a href="cart.html" class="view-cart-btn">Confirm price request</a></div>`);
+            $(".mini-cart-content").append(`<div class="mini-cart-action clearfix"><a href="cart.php" class="view-cart-btn">Confirm price request</a></div>`);
         } else {
             // If no items in the cart, show a message
             $(".mini-cart-items").append('<p>Your cart is empty.</p>');
@@ -266,6 +266,7 @@
         // When the cart toggle is clicked, display the mini cart with items from localStorage
         $("#cart-toggle").click(function (e) {
             e.preventDefault();
+            $('#mini-cart-items').addClass('mini-cart-content-toggle');
 
             // Get cart items from localStorage
 
