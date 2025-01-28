@@ -1,0 +1,161 @@
+[
+    {
+      "Gold": [
+        {
+          "Bangle": [
+            {
+              "SKU": "00211837",
+              "Brand": "Gold Craft Jewellery",
+              "MetalColor": "Yellow",
+              "MetalPurity": "18K",
+              "Carat": 18,
+              "Price": 1250.00,
+              "Weight": "12g",
+              "DesignStyle": "Modern Floral Bangle",
+              "Availability": "In Stock",
+              "Warranty": "2 Years",
+              "Img":"../images/produit/009ae0d3ca90a1033c495f8d9123e01c.png"
+            },
+            {
+              "SKU": "00211838",
+              "Brand": "Gold Craft Jewellery",
+              "MetalColor": "Rose Gold",
+              "MetalPurity": "14K",
+              "Carat": 14,
+              "Price": 980.00,
+              "Weight": "10g",
+              "DesignStyle": "Elegant Heart Bangle",
+              "Availability": "Limited Stock",
+              "Warranty": "1 Year",
+              "Img":"../images/produit/009ae0d3ca90a1033c495f8d9123e01c.png"
+            }
+          ]
+        },
+        {
+          "Necklace": [
+            {
+              "SKU": "00211839",
+              "Brand": "Gold Craft Jewellery",
+              "MetalColor": "White Gold",
+              "MetalPurity": "22K",
+              "Carat": 22,
+              "Price": 2350.00,
+              "Weight": "20g",
+              "DesignStyle": "Infinity Loop Necklace",
+              "Availability": "In Stock",
+              "Warranty": "3 Years",
+              "Img":"../images/produit/009ae0d3ca90a1033c495f8d9123e01c.png"
+            },
+            {
+              "SKU": "00211840",
+              "Brand": "Gold Craft Jewellery",
+              "MetalColor": "Yellow",
+              "MetalPurity": "18K",
+              "Carat": 18,
+              "Price": 1500.00,
+              "Weight": "15g",
+              "DesignStyle": "Vintage Filigree Necklace",
+              "Availability": "Out of Stock",
+              "Warranty": "2 Years",
+              "Img":"../images/produit/009ae0d3ca90a1033c495f8d9123e01c.png"
+            }
+          ]
+        },
+        {
+          "Earrings": [
+            {
+              "SKU": "00211841",
+              "Brand": "Gold Craft Jewellery",
+              "MetalColor": "Rose Gold",
+              "MetalPurity": "18K",
+              "Carat": 18,
+              "Price": 1750.00,
+              "Weight": "17g",
+              "DesignStyle": "Bold Hoop Earrings",
+              "Availability": "In Stock",
+              "Warranty": "2 Years",
+              "Img":"../images/produit/009ae0d3ca90a1033c495f8d9123e01c.png"
+            },
+            {
+              "SKU": "00211842",
+              "Brand": "Gold Craft Jewellery",
+              "MetalColor": "Yellow",
+              "MetalPurity": "14K",
+              "Carat": 14,
+              "Price": 1200.00,
+              "Weight": "13g",
+              "DesignStyle": "Geometric Dangle Earrings",
+              "Availability": "In Stock",
+              "Warranty": "1 Year",
+              "Img":"../images/produit/009ae0d3ca90a1033c495f8d9123e01c.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Platinum": [
+        {
+          "Ring": [
+            {
+              "SKU": "00211843",
+              "Brand": "Platinum Jewelers",
+              "MetalColor": "Silver",
+              "MetalPurity": "95%",
+              "Carat": 24,
+              "Price": 3200.00,
+              "Weight": "5g",
+              "DesignStyle": "Minimalist Wedding Band",
+              "Availability": "In Stock",
+              "Warranty": "3 Years",
+              "Img":"../images/produit/009ae0d3ca90a1033c495f8d9123e01c.png"
+            },
+            {
+              "SKU": "00211844",
+              "Brand": "Platinum Jewelers",
+              "MetalColor": "White",
+              "MetalPurity": "99%",
+              "Carat": 24,
+              "Price": 4100.00,
+              "Weight": "6g",
+              "DesignStyle": "Diamond Embedded Ring",
+              "Availability": "Limited Stock",
+              "Warranty": "5 Years",
+              "Img":"../images/produit/009ae0d3ca90a1033c495f8d9123e01c.png"
+            }
+          ]
+        },
+        {
+          "Bracelet": [
+            {
+              "SKU": "00211845",
+              "Brand": "Platinum Jewelers",
+              "MetalColor": "Silver",
+              "MetalPurity": "92%",
+              "Carat": 24,
+              "Price": 5000.00,
+              "Weight": "15g",
+              "DesignStyle": "Elegant Cuff Bracelet",
+              "Availability": "In Stock",
+              "Warranty": "3 Years",
+              "Img":"../images/produit/009ae0d3ca90a1033c495f8d9123e01c.png"
+            },
+            {
+              "SKU": "00211846",
+              "Brand": "Platinum Jewelers",
+              "MetalColor": "Silver",
+              "MetalPurity": "90%",
+              "Carat": 22,
+              "Price": 4800.00,
+              "Weight": "14g",
+              "DesignStyle": "Twist Design Bracelet",
+              "Availability": "Out of Stock",
+              "Warranty": "2 Years",
+              "Img":"../images/produit/009ae0d3ca90a1033c495f8d9123e01c.png"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  
