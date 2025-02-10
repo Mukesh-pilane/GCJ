@@ -2738,6 +2738,12 @@ button:active {
   max-height: 400px;
   overflow: auto;
 }
+.menu-cart-remove{
+  position: absolute;
+  right: 5px;
+  top:5px;
+  cursor: pointer;
+}
 .header-style-1 .header-right .mini-cart-content .mini-cart-item, .header-style-4 .header-right .mini-cart-content .mini-cart-item {
   position: relative;
   padding-top: 15px;

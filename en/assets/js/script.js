@@ -438,6 +438,10 @@
         var cartToggleBtn = $(".cart-toggle-btn");
         var cartContent = $(".mini-cart-content");
         var body = $("body");
+        // var existingData = JSON.parse(localStorage.getItem("cartItems")) || [];
+        // if (existingData.length <= 0) {
+        //     return;
+        // }
 
         cartToggleBtn.on("click", function(e) {
             cartContent.toggleClass("mini-cart-content-toggle");
@@ -788,6 +792,7 @@
 
         product.each(function() {
             var quickViewLink = product.find('a[title="Quick view"]');
+            var quickViewByImage = product.find('.Quick');
             var closeQuickView = product.find(".quick-view-single-product-close-btn");
             var singleProduct = $(".quick-view-single-product");
 
@@ -795,6 +800,15 @@
             var owlStageOuter = $(".owl-carousel .owl-stage-outer") ? $(".owl-carousel .owl-stage-outer") : null ;
 
             quickViewLink.on("click", function(e) {
+                console.log('here')
+               e.preventDefault();
+                $(this).closest(".product").find(".quick-view-single-product").addClass("activve-quick-view-single-product");
+
+                owlStage.addClass("transform-none");
+                owlStageOuter.addClass("transform-none");
+                return false;
+            })
+            quickViewByImage.on("click", function(e) {
                 e.preventDefault();
                 $(this).closest(".product").find(".quick-view-single-product").addClass("activve-quick-view-single-product");
 

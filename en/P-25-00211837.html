@@ -484,7 +484,7 @@
 
 
                             <div class="product-option">
-                                <form method="post" id="form-item" class="form form-item">
+                                <form method="post" id="form-item form-single-product" class="form form-item">
                                     <div class="">
                                         <input id="id_produit" name="id_produit" type="hidden" value="25">
                                         <div>
@@ -712,99 +712,224 @@
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script>
     <script>
-        // $(document).ready(function () {
-        //     $("#success-alert").hide();
-        //     $(".form-item").submit(function (e) {
+        $(document).ready(function () {
+            // Check if there is any cart data in localStorage on page load
+            var existingData = JSON.parse(localStorage.getItem("cartItems")) || [];
+            var cartCount = existingData.length; // Get the number of items in the cart
+            $(".mini-cart-content").append(`<div class="mini-cart-action clearfix"><a href="contact-us" class="view-cart-btn">Confirm price request</a></div>`);
+            // Check if there are any items in the cart
+            if (existingData.length > 0) {
+                if ($(".mini-cart-items").length === 0) {
+                    // Create the mini-cart-items container if it doesn't exist
+                    $(".mini-cart-content").prepend('<div class="mini-cart-items"></div>');
+                }
 
-        //         var form_data = $(this).serialize();
-        //         $.ajax({ //make ajax request to cart_process.php
-        //             url: "cart_process.php",
-        //             type: "POST",
-        //             dataType: "json", //expect json value from server
-        //             data: form_data
-        //         }).done(function (data) { //on Ajax success
+                $(".mini-cart-items").empty();
 
-        //             $("#cart-count").html(data.items); //total items in cart-info element
-        //             $("#dropdown-box").load("cart_process.html", { "load_cart": "1" }); //Make ajax request using jQuery Load() & update results
-        //             $("#success-alert").fadeTo(2000, 200).slideUp(200, function () {
-        //                 $("#success-alert").slideUp(200);
-        //             });
-
-
-        //         })
-        //         e.preventDefault();
-        //     });
-
-        //     $("#cart-toggle").click(function (e) { //when user clicks on cart box
-        //         e.preventDefault();
-
-        //         $("#basket").load("cart_process.html", { "load_cart": "1" }); //Make ajax request using jQuery Load() & update results
-        //     });
-
-
-        //     //Remove items from cart
-        //     $("#dropdown-box").on('click', 'button.remove-item', function (e) {
-        //         e.preventDefault();
-        //         var pcode = $(this).attr("data-code"); //get product code
-        //         $(this).parent().fadeOut(); //remove item element from box
-        //         $.getJSON("cart_process.html", { "remove_code": pcode }, function (data) { //get Item count from Server
-        //             $("#dropdown-box").load("cart_process.html", { "load_cart": "1" });
-        //             $("#cart-count").html(data.items); //update Item count in cart-info
-        //             $("#cart-toggle").trigger("click"); //trigger click on cart-box to update the items list
-        //         });
-        //         //Make ajax request using jQuery Load() & update results
-        //     });
-        // });
-        // Hide the success alert initially
-        $("#success-alert").hide();
-
-        // Handle form submission
-        $(".form-item").submit(function (e) {
-            e.preventDefault(); // Prevent the form's default submit behavior
-
-            // Serialize form data
-            const formData = $(this).serializeArray();
-
-            // Convert serialized data into a product object
-            const product = {};
-            formData.forEach(field => {
-                product[field.name] = field.value;
-            });
-
-            // Get existing cart from localStorage or initialize an empty array
-            let cart = JSON.parse(localStorage.getItem("cart")) || [];
-
-            // Check if product already exists in cart
-            const existingProductIndex = cart.findIndex(item => item.id === product.id);
-
-            if (existingProductIndex !== -1) {
-                // Update quantity if product already exists
-                cart[existingProductIndex].quantity = parseInt(cart[existingProductIndex].quantity) + parseInt(product.quantity);
+                // Loop through each item in localStorage and append it to the mini-cart
+                $.each(existingData, function (index, item) {
+                    var cartItemHTML = `
+                                <div class="mini-cart-item clearfix" data-index="${index}">
+                                    <div class="mini-cart-item-image">
+                                        <a href="#"><img src="${item.image}" alt=""></a>
+                                    </div>
+                                    <div class="mini-cart-item-des">
+                                        <a href="#">${item.sku}</a>
+                                        <span>Qty:${item.qty}<span>
+                                    </div>
+                                    <div class="menu-cart-remove">
+                                        <i class="ti-close"></i>
+                                    </div>
+                                </div>
+                            `;
+                    $(".mini-cart-items").append(cartItemHTML);
+                });
             } else {
-                // Add new product to the cart
-                cart.push(product);
+                // If no items in the cart, show a message
+                $(".mini-cart-items").append('<p>Your cart is empty.</p>');
             }
 
-            // Store updated cart back to localStorage
-            localStorage.setItem("cart", JSON.stringify(cart));
 
-            // Update cart count and display success alert
-            updateCartCount();
-            $("#success-alert").fadeTo(2000, 200).slideUp(200, function () {
-                $("#success-alert").slideUp(200);
+            $("#cart-count").html(cartCount); // Update the cart count on page load
+
+            // Handle remove button click
+            $(".mini-cart-content").on('click', ".menu-cart-remove", function () {
+                var existingData = JSON.parse(localStorage.getItem("cartItems")) || [];
+                var itemSku = $(this).closest('.mini-cart-item').find('.mini-cart-item-des a').text();
+                console.log(itemSku);
+
+                existingData = existingData.filter(item => item.sku !== itemSku);
+                console.log('existingData', existingData.length)
+                // Update localStorage and the cart count
+                $("#cart-count").html(existingData.length); // Update the cart count on page load
+                localStorage.setItem("cartItems", JSON.stringify(existingData));
+
+                if (existingData.length === 0) {
+                    $('.mini-cart-content').removeClass('mini-cart-content-toggle');
+                    // setTimeout(() => {
+                    //     $(this).parent().remove();
+                    // }, 1000)
+                    // return
+                }
+                $(this).parent().remove();
             });
-        });
 
-        // Function to update cart count
-        function updateCartCount() {
-            const cart = JSON.parse(localStorage.getItem("cart")) || [];
-            const totalItems = cart.reduce((sum, item) => sum + parseInt(item.quantity), 0);
-            $("#cart-count").html(totalItems);
-        }
+            $("#success-alert").hide();
 
-        // Load initial cart count on page load
-        $(document).ready(function () {
-            updateCartCount();
+            $(".form-item").submit(function (e) {
+                e.preventDefault();
+                var existingData = JSON.parse(localStorage.getItem("cartItems")) || [];
+                // Extract SKU and selected image (if present)
+                var formElement = this;
+                var sku = $(formElement).find(".product-info a").text() || $(document).find(".sku_wrapper .sku").text();
+                var imageSrc = $(formElement).find("a img").attr("src") || $(document).find(".laftImg").attr("src");
+      
+                var formData = {
+                    sku: sku,
+                    image: imageSrc,
+                    qty: 1
+                };
+                var existingItemIndex = existingData.findIndex(item => item.sku === sku);
+
+                if (existingItemIndex !== -1) {
+                    // If the item exists, increment the quantity
+                    existingData[existingItemIndex].qty += 1;
+                } else {
+                    existingData.push(formData);
+                }
+                saveToLocalStorage(existingData);
+            });
+
+
+
+
+
+
+
+
+
+            function saveToLocalStorage(existingData) {
+                // Store form data in localStorage
+                localStorage.setItem("cartItems", JSON.stringify(existingData));
+
+                var cartCount = existingData.length;
+
+                // Check if there are any items in the cart
+                if (existingData.length > 0) {
+                    if ($(".mini-cart-items").length === 0) {
+                        // Create the mini-cart-items container if it doesn't exist
+                        $(".mini-cart-content").prepend('<div class="mini-cart-items"></div>');
+                    }
+
+                    $(".mini-cart-items").empty();
+
+                    // Loop through each item in localStorage and append it to the mini-cart
+                    $.each(existingData, function (index, item) {
+                        var cartItemHTML = `
+                                <div class="mini-cart-item clearfix" data-index="${index}">
+                                    <div class="mini-cart-item-image">
+                                        <a href="#"><img src="${item.image}" alt=""></a>
+                                    </div>
+                                    <div class="mini-cart-item-des">
+                                        <a href="#">${item.sku}</a>
+                                        <span>Qty:${item.qty}<span>
+                                    </div>
+                                    <div class="menu-cart-remove">
+                                        <i class="ti-close"></i>
+                                    </div>
+                                </div>
+                            `;
+                        $(".mini-cart-items").append(cartItemHTML);
+                    });
+
+
+                } else {
+                    // If no items in the cart, show a message
+                    $(".mini-cart-items").append('<p>Your cart is empty.</p>');
+                }
+
+
+                $("#cart-count").html(existingData.length); // Show updated cart count
+                $("#success-alert").fadeTo(2000, 200).slideUp(200, function () {
+                    $("#success-alert").slideUp(200);
+                });
+
+            }
+
+            // Call this function to append the cart table to the container
+            function renderCartTable() {
+                // Get cart items from localStorage
+                var existingData = JSON.parse(localStorage.getItem("cartItems")) || [];
+
+                // Grab the container where the table should be inserted
+                var basketContainer = $("#load_panier");
+
+                // Check if there are items in localStorage
+                if (existingData.length > 0) {
+                    // Create the table structure
+                    var cartTableHTML = `
+                <table class="shop_table shop_table_responsive cart">
+                    <tbody>
+            `;
+
+                    // Loop through each item in localStorage and generate the table rows
+                    $.each(existingData, function (index, item) {
+                        cartTableHTML += `
+                    <tr class="cart_item">
+                        <td class="product-remove">
+                            <a href="#" class="remove remove-item" title="Remove this product" data-code="${item.sku}">×</a>
+                        </td>
+                        <td class="product-thumbnail">
+                            <a href="#">
+                                <img width="57" height="70" src="${item.image}" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="">
+                            </a>
+                        </td>
+                        <td class="product-name" data-title="Product">
+                            <a href="#">${item.sku}</a>
+                        </td>
+                        <button class="remove-cart-item">Remove</button>
+                    </tr>
+                `;
+                    });
+
+                    // Close the table tags
+                    cartTableHTML += `
+                    </tbody>
+                </table>
+            `;
+
+                    // Append the generated table to the basket container
+                    basketContainer.html(cartTableHTML);
+                } else {
+                    // If no items in the cart, show a message
+                    basketContainer.html('<p>Your cart is empty.</p>');
+                }
+
+                // Add event listener for the remove icon
+                $(".remove-item").click(function () {
+                    // Get the SKU of the item to be removed
+                    var itemSku = $(this).data("code");
+
+                    // Get the current cart items from localStorage
+                    var existingData = JSON.parse(localStorage.getItem("cartItems")) || [];
+
+                    // Remove the item based on SKU
+                    existingData = existingData.filter(item => item.sku !== itemSku);
+
+                    // Update the localStorage with the remaining items
+                    localStorage.setItem("cartItems", JSON.stringify(existingData));
+
+                    $("#cart-count").text(existingData.length);
+
+                    // Re-render the cart table
+                    renderCartTable();
+                });
+            }
+
+            // Call renderCartTable function when the page loads or when you need to display the cart table
+            renderCartTable(); // For example, this will run immediately when the page loads
+
+
         });
 
 
@@ -827,6 +952,7 @@
             $('.laftImg').BUP('rightImg', 1.5)
             $('.rightImg').BUP('laftImg', 1.5)
         }
-    </script
+    </script>
 </body>
+
 </html>

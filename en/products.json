@@ -1,0 +1,2632 @@
+[
+    {
+        "product_id": "193",
+        "product_badge": "Crown",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/3d45081890069cec704f679a49628884.png",
+        "product_info": "GC 01",
+        "sku": "GC 01",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "231",
+        "product_badge": "Rings",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/03a2e9ac830c732cc959fd4025498316.png",
+        "product_info": "GC 00178235",
+        "sku": "00178235",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "228",
+        "product_badge": "Rings",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/30d2e0ef00f869c98ccdf61025867ab1.png",
+        "product_info": "GC WASRN1006",
+        "sku": "WASRN1006",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "243",
+        "product_badge": "chain",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/703996cfece1c01c25135eb34169c4cc.png",
+        "product_info": "GC 00268116",
+        "sku": "00268116",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "66",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/411728c6d2468097744ccc35a712f764.png",
+        "product_info": "GC 00217292",
+        "sku": "00217292",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "161",
+        "product_badge": "Maznat",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/4fa0b48655ee488882ec5356d698d517.png",
+        "product_info": "MZN 00020938",
+        "sku": "00020938",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "106",
+        "product_badge": "Bracelet",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/770d768eec80f6a6ce50b004221f57e5.png",
+        "product_info": "BRC 00207892",
+        "sku": "00207892",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "44",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/72c1573b8b2fc68fd18a2083aacc9350.png",
+        "product_info": "GC 00148786",
+        "sku": "00148786",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "277",
+        "product_badge": "Rings",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/009ae0d3ca90a1033c495f8d9123e01c.png",
+        "product_info": "GC 00222923",
+        "sku": "00222923",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "128",
+        "product_badge": "pendant",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/d5c0d14d387c943aa581fdb1d91416bd.png",
+        "product_info": "PND 00160932",
+        "sku": "00160932",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "98",
+        "product_badge": "Mortaesha",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/b137dad083412d5329944f8645fe2523.png",
+        "product_info": "MRTSH 00177747",
+        "sku": "00177747",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "156",
+        "product_badge": "Maznat",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/81d448d3d31cf221a2f69b2fc233aa50.png",
+        "product_info": "MZN 00229442",
+        "sku": "00229442",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "154",
+        "product_badge": "Maznat",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/308ac4e983f0d840f81c4a6bb5f2f7de.png",
+        "product_info": "MZN 00232898",
+        "sku": "00232898",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "220",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/d04f3a1e0c67bae8005ad83cc14800c8.png",
+        "product_info": "1406040311",
+        "sku": "1406040311",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "269",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/5b0bc499037c2773285f19dd4baf8522.png",
+        "product_info": "GC 00167483",
+        "sku": "00167483",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "194",
+        "product_badge": "Crown",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/ea4ebbb49baf06de8ee67706405ee628.png",
+        "product_info": "GC 00152754",
+        "sku": "00152754",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "65",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/270729375dad4c622b4d44b395f4143d.png",
+        "product_info": "GC 00217294",
+        "sku": "00217294",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "196",
+        "product_badge": "Amayel",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/8762974ab2f4e592982601b40e6c04c4.png",
+        "product_info": "AMA 00155109",
+        "sku": "00155109",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "39",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/3a9b12c45a283cd0bdf817a7af53b9ad.png",
+        "product_info": "GC 00269586",
+        "sku": "00269586",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "91",
+        "product_badge": "Necklece",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/0578ff47315ada2402d5b653ceb05fe5.png",
+        "product_info": "NCL 00148645",
+        "sku": "00148645",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "180",
+        "product_badge": "Mortahesha",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/a00693733d077aaa3924339f5dca863b.png",
+        "product_info": "MTH 00256600",
+        "sku": "00256600",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "56",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/b8cb278b982cd97eecdf4abf30e00d4d.png",
+        "product_info": "GC 00039455",
+        "sku": "00039455",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "117",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/a0a06e753856f51341e06da020a106c1.png",
+        "product_info": "GC     00021776",
+        "sku": "00021776",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "29",
+        "product_badge": "Ring",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/c7bf1453d48d90a080765b9170f9c488.png",
+        "product_info": "GC 00212827",
+        "sku": "00212827",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "217",
+        "product_badge": "Necklece",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/5adb8ed748b66064477c6bb9cc05c088.png",
+        "product_info": "NCL 00013186",
+        "sku": "00013186",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "103",
+        "product_badge": "Bracelet",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/f8daaaef2c77e57b01eaf571bc05261a.png",
+        "product_info": "BRC 00206324",
+        "sku": "00206324",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "206",
+        "product_badge": "Pendant",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/15e04914fd68be58e58d42115ac5ca69.png",
+        "product_info": "PND 00214308",
+        "sku": "00214308",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "85",
+        "product_badge": "pendant",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/b858c5f03cf260aca6f78d08f88aaf71.png",
+        "product_info": "PND 00214013",
+        "sku": "00214013",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "White",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "266",
+        "product_badge": "Necklece",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/17557fdd58a8922db1a8118cad9bcf2d.png",
+        "product_info": "NCL 00083829",
+        "sku": "00083829",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "181",
+        "product_badge": "Tablat",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/b146fde9e7c6c1ff85b7cc5e910edda0.png",
+        "product_info": "TAB 00221782",
+        "sku": "00221782",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "224",
+        "product_badge": "Earring",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/e5d4247a35773ccc91e4aefc95eb3000.png",
+        "product_info": "EAR 00213694",
+        "sku": "00213694",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "74",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/6cb8c94568f8056d8b774fc28debfa0d.png",
+        "product_info": "GC 00217308",
+        "sku": "00217308",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "239",
+        "product_badge": "Necklece",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/35047ed282abef2ef711e957ad4b1bce.png",
+        "product_info": "NCL 00224112",
+        "sku": "00224112",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "201",
+        "product_badge": "Hairclip",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/1a4f165323edaa6126b9748e007da49e.png",
+        "product_info": "HCL 00214385",
+        "sku": "00214385",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "83",
+        "product_badge": "pendant",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/071eba4b5a58c221ee50c41b1b32bf74.png",
+        "product_info": "PND 00214134",
+        "sku": "00214134",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "White",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "50",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/06dd64100b158b6aa9225c5f990ab885.png",
+        "product_info": "GC 00233665",
+        "sku": "00233665",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "188",
+        "product_badge": "choker",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/df6c6d2bbf06c3034caeb7aad33c68e8.png",
+        "product_info": "CHK 00248689",
+        "sku": "00248689",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "183",
+        "product_badge": "Tablat",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/87cd217c6cda903cf1aabbb9268772de.png",
+        "product_info": "TAB 00221786",
+        "sku": "00221786",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "69",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/7b2719f1c85d26d255a60231413590a5.png",
+        "product_info": "GC 00217486",
+        "sku": "00217486",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "120",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/a0fcc2d4ff812b3514dad1f520846cb1.png",
+        "product_info": "GC     00257725",
+        "sku": "SET 00257725",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "105",
+        "product_badge": "Bracelet",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/0518f0fb94e6406b1fc38c35f7908f0a.png",
+        "product_info": "BRC 00231365",
+        "sku": "00231365",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "140",
+        "product_badge": "Earring",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/9ed474817b912fcc86cc6c52e8a243ec.png",
+        "product_info": "EAR 00045320",
+        "sku": "00045320",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "121",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/bc33cf6727395e72a12d0e90b6e8e210.png",
+        "product_info": "GC     00257762",
+        "sku": "00257762",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "229",
+        "product_badge": "Rings",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/d369f6a5a17cb369959a87f7925e0c42.png",
+        "product_info": "GC 00155499",
+        "sku": "00155499",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "80",
+        "product_badge": "pendant",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/1df4bc1bab240f11f3d94c0ba14e107f.png",
+        "product_info": "PND 00214127",
+        "sku": "00214127",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "153",
+        "product_badge": "Earring",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/965c6020c554597972e928211f5dff0a.png",
+        "product_info": "EAR 00222086",
+        "sku": "00222086",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "247",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/2f5d15de21f751a600520ab14d1df696.png",
+        "product_info": "GC     00173712",
+        "sku": "00173712",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "150",
+        "product_badge": "Earring",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/4385c5bf88789e942b86587ae9471166.png",
+        "product_info": "EAR 00244726",
+        "sku": "00244726",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "89",
+        "product_badge": "chain",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/10c5fd9658566e09d38edd3332ead6b1.png",
+        "product_info": "GC 00206370",
+        "sku": "00206370",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "White",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "280",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/b1399dd14d2fcd4dd2e35cc1dc50b27b.png",
+        "product_info": "GC     690022786",
+        "sku": "690022786",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "76",
+        "product_badge": "pendant",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/0167be3954e5e253ff1bc793bbfb4684.png",
+        "product_info": "PND 00214014",
+        "sku": "00214014",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "260",
+        "product_badge": "Pearl",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/2bcdd66b5c4b9625cf80fcfea523dac5.png",
+        "product_info": "PRL SET 1",
+        "sku": "PRL SET 1",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "240",
+        "product_badge": "Necklece",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/68e74be34987d834b202c2001e0e6e9e.png",
+        "product_info": "NCL 00268024",
+        "sku": "00268024",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "33",
+        "product_badge": "Ring",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/90047b90eb4924927bcf17406755526a.png",
+        "product_info": "GC 00244903",
+        "sku": "00244903",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "242",
+        "product_badge": "Necklece",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/de81bc28c565f74bcbf0935787e7c088.png",
+        "product_info": "NCL 00207412",
+        "sku": "00207412",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "205",
+        "product_badge": "Hamat",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/2b4e8e2765b5aed8e3502f164d23c955.png",
+        "product_info": "HAM 00222780",
+        "sku": "00222780",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "96",
+        "product_badge": "Mortaesha",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/1a9d514209c86c5c845e259cac74314f.png",
+        "product_info": "MRTSH 00152985",
+        "sku": "00152985",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "261",
+        "product_badge": "Pearl",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/217055ca50d743cdce3a7e605da4735b.png",
+        "product_info": "PRL SET 2",
+        "sku": "PRL SET 2",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "160",
+        "product_badge": "Maznat",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/d381b138b81485a556095b0c44f95192.png",
+        "product_info": "MZN 00266051",
+        "sku": "00266051",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "158",
+        "product_badge": "Maznat",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/cb306226f27cd8f25b3d7fe1bf7f6a16.png",
+        "product_info": "MZN 00274167",
+        "sku": "00274167",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "279",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/bfa11335fae7434bf83ac23c18ba992b.png",
+        "product_info": "GC     00185503",
+        "sku": "00185503",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "127",
+        "product_badge": "pendant",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/6b5c661532dbc031f61758b5ceec35d6.png",
+        "product_info": "PND 00160926",
+        "sku": "00160926",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "195",
+        "product_badge": "Crown",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/33b02f365bea6d0116721050b3cd5895.png",
+        "product_info": "GC 03",
+        "sku": "GC 03",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "171",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/871c1f9ae540c2e1f189fa137ad7d95c.png",
+        "product_info": "GC     00258578",
+        "sku": "00258578",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "173",
+        "product_badge": "Karasi Necklace",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/c299063db5b630824611b7a6f842aa24.png",
+        "product_info": "KRS 00002234",
+        "sku": "00002234",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "250",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/4573bf8267d9bc6b73cf82faf1dc9b99.png",
+        "product_info": "GC     00204969",
+        "sku": "00204969",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "157",
+        "product_badge": "Maznat",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/9420b955c252c808a77ad1395225ab9f.png",
+        "product_info": "MZN 00271468",
+        "sku": "00271468",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "112",
+        "product_badge": "Bracelet",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/b637a900729d8376a8dc99ee456f8dec.png",
+        "product_info": "BRC 00167030",
+        "sku": "00167030",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "258",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/243ea57aef2a6e59781c3bcf4d2302de.png",
+        "product_info": "GC     00232941",
+        "sku": "00232941",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "227",
+        "product_badge": "Rings",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/dea5e18e7785f11a7f5f91708044ef83.png",
+        "product_info": "GC 00221512",
+        "sku": "00221512",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "104",
+        "product_badge": "Bracelet",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/3f7782f2829bae32a5dd39edcc481abe.png",
+        "product_info": "BRC 00257065",
+        "sku": "00257065",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "288",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/c80079936358970999d5ee42258dd4d2.png",
+        "product_info": "GC     0019298",
+        "sku": "0019298",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "182",
+        "product_badge": "Tablat",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/0096d34ed5e10c4fd1f240559d9f3af3.png",
+        "product_info": "TAB 00221775",
+        "sku": "00221775",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "232",
+        "product_badge": "Rings",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/da461ce6ff9b80f8bc7d4ff06b1af290.png",
+        "product_info": "GC 00167451",
+        "sku": "00167451",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "138",
+        "product_badge": "Earring",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/e9adc948c1041d345ebd5a705c9761f5.png",
+        "product_info": "EAR 00231879",
+        "sku": "00231879",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "281",
+        "product_badge": "pendant",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/427e95548ea7c9039ac59eee57a9727f.png",
+        "product_info": "PND 00221848",
+        "sku": "00221848",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "152",
+        "product_badge": "Earring",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/50158293a0f005ad63e484e8e4330048.png",
+        "product_info": "EAR 00273409",
+        "sku": "00273409",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "42",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/ea3d4aa4015e6c4ef23401c7c8eb45ec.png",
+        "product_info": "GC 00205538",
+        "sku": "00205538",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "264",
+        "product_badge": "choker",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/09b4084da7063bf25a625e03c7b8591d.png",
+        "product_info": "CHK 00013428",
+        "sku": "00013428",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "185",
+        "product_badge": "Necklece",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/29444e0ab20ea4ef4283f344fd161b58.png",
+        "product_info": "NCL 00229509",
+        "sku": "00229509",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "72",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/9f2c6877663a71170eaaeec5fd8c2a39.png",
+        "product_info": "GC 00204942",
+        "sku": "00204942",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "144",
+        "product_badge": "Earring",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/aca3ae35e8b1a6d5df96071ba5ab5e7f.png",
+        "product_info": "EAR 00207920",
+        "sku": "00207920",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "71",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/fd0ead2bc4410805f2e5173f1a7f69d4.png",
+        "product_info": "GC 00217367",
+        "sku": "00217367",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "251",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/11b7e533c02fff075a53a3ca82fb1723.png",
+        "product_info": "GC     00187159",
+        "sku": "00187159",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "90",
+        "product_badge": "Necklece",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/3342a2d87b5f1a95e79782d37d8ebd17.png",
+        "product_info": "NCL 00148634",
+        "sku": "00148634",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "92",
+        "product_badge": "Necklece",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/a300d59459c7111fce776d21e2f5cecf.png",
+        "product_info": "NCL 00231317",
+        "sku": "00231317",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "248",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/6d6ba84352dcbb5f0238da6a0256ce79.png",
+        "product_info": "GC     00225719",
+        "sku": "00225719",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "62",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/1d2695c523ead4aa63e5421bbd676e4d.png",
+        "product_info": "GC 00020751",
+        "sku": "00020751",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "47",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/c33d85e2b4b8275c230aeafec5fa28a4.png",
+        "product_info": "GC 00205434",
+        "sku": "00205434",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "60",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/539666ac7ffad5213688c7055bb34a40.png",
+        "product_info": "GC 00173785",
+        "sku": "00173785",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "35",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/0d234a6647b387d53f1c248b1c43a978.png",
+        "product_info": "GC 00273541",
+        "sku": "00273541",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "37",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/c81b7b01901a4b2ebb7d0db6dc94bd33.png",
+        "product_info": "GC 00232251",
+        "sku": "00232251",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "225",
+        "product_badge": "Earring",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/d3c622cd3d23d92e80fadbb7012cf59c.png",
+        "product_info": "EAR 00221277",
+        "sku": "00221277",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "204",
+        "product_badge": "Hamat",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/3d80b22279f34a6d634e3fc104d0f904.png",
+        "product_info": "HAM 00222777",
+        "sku": "00222777",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "57",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/bc788ef3a6c6bb15740ac43175456c19.png",
+        "product_info": "GC 00217317",
+        "sku": "00217317",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "68",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/50dd25b9599dd63d9d02f39b6d776111.png",
+        "product_info": "GC 00152657",
+        "sku": "00152657",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "275",
+        "product_badge": "Rings",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/ae33d25dc55d8dbeee27a201c74598e9.png",
+        "product_info": "GC 00154086",
+        "sku": "00154086",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "244",
+        "product_badge": "choker",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/232eaec05357da6ef0fe62ea44e3a0f9.png",
+        "product_info": "CHK 00223062",
+        "sku": "00223062",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "123",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/dbd8f6d511c6b58a5215d6a2fa2035ce.png",
+        "product_info": "GC 00163283",
+        "sku": "00163283",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "290",
+        "product_badge": "Necklece",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/6e0b8f1ef8eee66b62b24088dd87f51a.png",
+        "product_info": "NCL 00005049",
+        "sku": "00005049",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "162",
+        "product_badge": "Tablat",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/1900e38e404f722b3acd25185f9fb1e3.png",
+        "product_info": "TAB 00221768",
+        "sku": "00221768",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "102",
+        "product_badge": "Belt",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/53067eb95eba255b56c3415e37dc9760.png",
+        "product_info": "BLT 00271065",
+        "sku": "00271065",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "94",
+        "product_badge": "chain",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/07913704203ab69846e046f3debc1763.png",
+        "product_info": "GC 00206425",
+        "sku": "00206425",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "122",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/f140c3e3f6dc11cd0aa25199ac145e08.png",
+        "product_info": "GC 00157148",
+        "sku": "00157148",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "169",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/b7f2ca201a39fd1138931d25bd51f856.png",
+        "product_info": "GC     00222447",
+        "sku": "00222447",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "136",
+        "product_badge": "chain",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/f33123386ed9677979c0d10403a6ca7a.png",
+        "product_info": "GC 00231318",
+        "sku": "00231318",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "159",
+        "product_badge": "Maznat",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/85e6093113e8801a56c42d1eb5ad6386.png",
+        "product_info": "MZN 00271046",
+        "sku": "00271046",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "236",
+        "product_badge": "Necklece",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/f5655760a919d666e3211b042415c470.png",
+        "product_info": "NCL 00206698",
+        "sku": "00206698",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "133",
+        "product_badge": "chain",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/79167c520c12687faee793901852577c.png",
+        "product_info": "GC 00248807",
+        "sku": "00248807",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "126",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/3c6cdcff3befe309217eedb9a36fd732.png",
+        "product_info": "GC 00226354",
+        "sku": "00226354",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "254",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/0aee506fde5987e70b245ed65051bff7.png",
+        "product_info": "GC     00204961",
+        "sku": "00204961",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "285",
+        "product_badge": "Pearl",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/4d3507214ac4f3418ecb82ede2177630.png",
+        "product_info": "PEARL 00223067",
+        "sku": "00223067",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "51",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/bce8f0d59b8dd4995c7c8a9f500cfdb9.png",
+        "product_info": "GC 00204940",
+        "sku": "00204940",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "208",
+        "product_badge": "Pendant",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/0a3c8519f2feb258201fbf007ff7b01b.png",
+        "product_info": "PND 00214380",
+        "sku": "PND 00214380",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "253",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/7714d2a283a6f2543cb573359f8b056d.png",
+        "product_info": "GC     00175349",
+        "sku": "00175349",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "139",
+        "product_badge": "Earring",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/6a035cca67ab60db3aa089dda14dac9d.png",
+        "product_info": "EAR 00231880",
+        "sku": "00231880",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "129",
+        "product_badge": "chain",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/7cb1fd1f5de9f7ddb6266ce664141c6c.png",
+        "product_info": "GC 00032504",
+        "sku": "00032504",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "87",
+        "product_badge": "Necklece",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/3bd55baa6ef2c8201babf4e5a85f04f7.png",
+        "product_info": "NCL 00225561",
+        "sku": "00225561",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "222",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/fffdae3a4a07eed5d8e286f180e2a398.png",
+        "product_info": "00170341",
+        "sku": "00170341",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "64",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/91284c8a0966253b7feed84d0f6e81bc.png",
+        "product_info": "GC 00217489",
+        "sku": "00217489",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "115",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/5ca806b83f58440c848d6a70865bfabe.png",
+        "product_info": "GC     00222203",
+        "sku": "00222203",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "235",
+        "product_badge": "Necklece",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/254295a3470d0bfc61673047b5d977a6.png",
+        "product_info": "NCL 00229086",
+        "sku": "00229086",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "187",
+        "product_badge": "choker",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/39eafb20a76b4d7770a22976004adc0d.png",
+        "product_info": "CHK 00152823",
+        "sku": "00152823",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "146",
+        "product_badge": "Earring",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/6d5873a7143bd793024355fc20768a65.png",
+        "product_info": "EAR 00045958",
+        "sku": "00045958",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "100",
+        "product_badge": "Belt",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/d7ac770f9c06f052c9834f7adcd15cb9.png",
+        "product_info": "BLT 00029839",
+        "sku": "00029839",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "174",
+        "product_badge": "Karasi Necklace",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/85fb35a465472c964d8ea9b3f95a419b.png",
+        "product_info": "KRS 00096956",
+        "sku": "00096956",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "77",
+        "product_badge": "pendant",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/4c61412779732e2488f31d4494d29c9d.png",
+        "product_info": "PND 00214018",
+        "sku": "0021214018",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "233",
+        "product_badge": "Rings",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/a4e7080ffb2263498cd5029e0ec4b290.png",
+        "product_info": "GC 00170423",
+        "sku": "00170423",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "189",
+        "product_badge": "choker",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/6d9b49d6056f920a94e32f15870ebe88.png",
+        "product_info": "CHK 00269791",
+        "sku": "00269791",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "175",
+        "product_badge": "Karasi Necklace",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/c20d59b3f3c327311e80f80b7b9c5b96.png",
+        "product_info": "KRS 00167105",
+        "sku": "00167105",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "284",
+        "product_badge": "Pearl",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/28388066e7f149c16296656abf60b6ed.png",
+        "product_info": "PEARL 00150250",
+        "sku": "00150250",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "226",
+        "product_badge": "Earring",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/16678e7a3409c69aed7823b6f332ec31.png",
+        "product_info": "EAR 00178183",
+        "sku": "00178183",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "111",
+        "product_badge": "Bracelet",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/0edb3b7b8c46beb8507f8be9b2b64b4d.png",
+        "product_info": "BRC 00118223",
+        "sku": "00118223",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "95",
+        "product_badge": "Mortaesha",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/419d0d8a05641bef93de3f111485230a.png",
+        "product_info": "MRTSH 00118085",
+        "sku": "00118085",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "145",
+        "product_badge": "Earring",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/8034f0a455767138577decf7945ea7f7.png",
+        "product_info": "EAR 00229234",
+        "sku": "00229234",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "93",
+        "product_badge": "Necklece",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/a71c941f72591aee76ca2faa4c1b6eb8.png",
+        "product_info": "NCL 00268030",
+        "sku": "00268030",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "148",
+        "product_badge": "Earring",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/bea04c53b85e839226fe578e9df713d6.png",
+        "product_info": "EAR 00229258",
+        "sku": "00229258",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "81",
+        "product_badge": "pendant",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/4a83a215ae39032faa0eb5d3be436e6e.png",
+        "product_info": "PND 00214128",
+        "sku": "00214128",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "White",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "32",
+        "product_badge": "Ring",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/57caa6c545a908bd256d8bc3bd5fbbc6.png",
+        "product_info": "GC 00239844",
+        "sku": "00239844",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "27",
+        "product_badge": "Ring",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/aad3c7a1ba054f25863cec226710dcb3.png",
+        "product_info": "GC 00050727",
+        "sku": "00050727",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "216",
+        "product_badge": "choker",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/29669a2319390a326432a0033d51d0ce.png",
+        "product_info": "CHK 000128977",
+        "sku": "000128977",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "262",
+        "product_badge": "Necklece",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/57223ee094e6b4cdc1402f0f5b89ae5d.png",
+        "product_info": "NCL 00166954",
+        "sku": "00166954",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "170",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/7a6762dde22dd18f56b5b1dde1c5b28f.png",
+        "product_info": "GC     00258574",
+        "sku": "00258574",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "26",
+        "product_badge": "Ring",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/70a528266d28499dab91191002d98539.png",
+        "product_info": "GC 00211451",
+        "sku": "00211837",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "48",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/feb5b7922833d1ffb7f974a7699f569e.png",
+        "product_info": "GC 00269564",
+        "sku": "00269564",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "119",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/601b9b2472d065cd236ba0abedead052.png",
+        "product_info": "GC     00257720",
+        "sku": "00257720",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "197",
+        "product_badge": "Amayel",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/42bd937cd3e1c3483a2f37d5602ab78b.png",
+        "product_info": "AMA 00179175",
+        "sku": "00179175",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "270",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/aee908d227828d7f469c7b2231824176.png",
+        "product_info": "GC 00167481",
+        "sku": "00167481",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "256",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/541a1c8af935b8c576b97b8b26cf7332.png",
+        "product_info": "GC     00269386",
+        "sku": "00269386",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "177",
+        "product_badge": "Karasi Necklace",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/525e4e26d556ba31079b13a491559a6d.png",
+        "product_info": "KRS 00205069",
+        "sku": "00205069",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "52",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/a96dc039cb6930792f472da9a06ee7cf.png",
+        "product_info": "GC 00217323",
+        "sku": "00217323",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "41",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/c344879903fd0ace97e3121011a4f42c.png",
+        "product_info": "GC 00258364",
+        "sku": "00258364",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "38",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/722098746b1fd4d3b5f8463539f110fc.png",
+        "product_info": "GC 00205522",
+        "sku": "00205522",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "58",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/9981fd65bd4aa64c2e92f9b431ae359f.png",
+        "product_info": "GC 00217492",
+        "sku": "00217492",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "237",
+        "product_badge": "Necklece",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/b03e651f6256e2cba1cf1bf4d0d9293d.png",
+        "product_info": "NCL 00258333",
+        "sku": "00258333",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "White",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "199",
+        "product_badge": "Hairclip",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/0ee67374a98bad8df5ec6a08d2828d28.png",
+        "product_info": "HCL 00232966",
+        "sku": "00232966",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "107",
+        "product_badge": "Bracelet",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/361618afdf8a019e371f29ed76234311.png",
+        "product_info": "BRC 00268021",
+        "sku": "00268021",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "172",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/0afd99680642c40d57213dd637a538e6.png",
+        "product_info": "GC     00267832",
+        "sku": "00267832",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "257",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/7e2c4fe2ef88183112a00ffe52fe00f4.png",
+        "product_info": "GC     00227412",
+        "sku": "00227412",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "286",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/1e0f1df1b6d530a902c272cad8c68b94.png",
+        "product_info": "GC     00269718",
+        "sku": "00269718",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "265",
+        "product_badge": "Necklece",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/e55ef286b335699dc88d4aa41e97b38b.png",
+        "product_info": "NCL 00167796",
+        "sku": "00167796",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "73",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/ea85568d98da8fc8ea2d9ed15d9d6cf8.png",
+        "product_info": "GC 00217362",
+        "sku": "00217362",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "259",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/dfd70087d7ccc8154c785077493348ca.png",
+        "product_info": "GC     00222207",
+        "sku": "00222207",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "30",
+        "product_badge": "Ring",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/f176f2ba4ed60c2901b85920bc73986b.png",
+        "product_info": "GC 00212914",
+        "sku": "00212914",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "155",
+        "product_badge": "Maznat",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/bf6b2db25c67f60489693e383e75e2fb.png",
+        "product_info": "MZN 00225288",
+        "sku": "00225288",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "211",
+        "product_badge": "Bracelet",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/0fd021a3e2c44d43309238b99ce32dbb.png",
+        "product_info": "BRC 00178172",
+        "sku": "00178172",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "78",
+        "product_badge": "pendant",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/14e4c57980a072244dac217775622caf.png",
+        "product_info": "PND 00214023",
+        "sku": "00214023",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "283",
+        "product_badge": "pendant",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/e658ee77f8e2ffadf1fb7a77e454e3ea.png",
+        "product_info": "PND 00178216",
+        "sku": "00178216",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "202",
+        "product_badge": "Hairclip",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/f44f513cc666c625e2a8f04550353b53.png",
+        "product_info": "HCL 00230041",
+        "sku": "00230041",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "141",
+        "product_badge": "pendant",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/096b17af22b8316d9b7bdfbf2f449f45.png",
+        "product_info": "PND 00270711",
+        "sku": "00270711",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "198",
+        "product_badge": "Hairclip",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/113099f7dac85a7dca1288fd286b614f.png",
+        "product_info": "HCL 00205584",
+        "sku": "00205584",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "267",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/c1e02b49ad669a25162aa3ecfec38b2d.png",
+        "product_info": "GC 00167480",
+        "sku": "00167480",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "249",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/395caecdf5bd1fef1d706513f195277a.png",
+        "product_info": "GC     00222325",
+        "sku": "00222325",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "278",
+        "product_badge": "Rings",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/e877a3700868436cc496db0df0f39f4e.png",
+        "product_info": "GC 00222668",
+        "sku": "00222668",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "55",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/e435478172ad2189508e35cb98d3da16.png",
+        "product_info": "GC 00217485",
+        "sku": "00217485",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "168",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/da8ae72d28d7d821e1a217cef0255c3c.png",
+        "product_info": "GC     00222335",
+        "sku": "00222335",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "109",
+        "product_badge": "Bracelet",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/2bb4149a880f2b523f9b8a80f8701a9b.png",
+        "product_info": "BRC 00094406",
+        "sku": "00094406",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "186",
+        "product_badge": "chain",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/f290023f9a6183ab6c0468c6fbfaff18.png",
+        "product_info": "GC 00268038",
+        "sku": "00268038",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "61",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/f8ea26411e618a50b677c28596892ea6.png",
+        "product_info": "GC 00266808",
+        "sku": "00266808",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "192",
+        "product_badge": "choker",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/6ab302f9a8de951fbc6d37fa424bb252.png",
+        "product_info": "CHK 00268034",
+        "sku": "00268034",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "124",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/ddb6a12aa17fc19a125496c2cb9f8101.png",
+        "product_info": "GC 00163289",
+        "sku": "00163289",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "137",
+        "product_badge": "Earring",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/848420057bd99892755559cbe35f138e.png",
+        "product_info": "EAR 00117131",
+        "sku": "00117131",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "63",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/72265523b28b890e747d82db5e4a7bdf.png",
+        "product_info": "GC 00217481",
+        "sku": "00217481",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "53",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/2bd9d551f175f5909f55e54e2d6b4fbd.png",
+        "product_info": "GC 00217457",
+        "sku": "00217457",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "110",
+        "product_badge": "Bracelet",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/4d4569a03418ef7a25e6e262adfc70ce.png",
+        "product_info": "BRC 00266611",
+        "sku": "00266611",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "271",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/6ad5f77d89be714d5cbdcfb31ae787da.png",
+        "product_info": "GC 00118427",
+        "sku": "00118427",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "143",
+        "product_badge": "pendant",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/81d1b45e0b15ef25f5f6cf4624ae5e32.png",
+        "product_info": "PND 00214294",
+        "sku": "00214294",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "221",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/6eaadfa0a4c2d6b75eb34e7a84ef0b2a.png",
+        "product_info": "1013032711",
+        "sku": "1013032711",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "75",
+        "product_badge": "pendant",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/a8693cde202733c368afa29009e12c16.png",
+        "product_info": "PND 00214153",
+        "sku": "00214153",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "223",
+        "product_badge": "Earring",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/0cec64b4718dd7a99c29b7c7bfd5759b.png",
+        "product_info": "EAR 00170431",
+        "sku": "00170431",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "132",
+        "product_badge": "chain",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/f1bbc0a04523cc1234e448ea290c848b.png",
+        "product_info": "GC 00157095",
+        "sku": "00157095",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "46",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/730b4122b22195b77945be26b5ce8234.png",
+        "product_info": "GC 00269589",
+        "sku": "00269589",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "207",
+        "product_badge": "Pendant",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/fef81c09ef360db0b50c6063903fa2fc.png",
+        "product_info": "PND 00232468",
+        "sku": "00232468",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "142",
+        "product_badge": "pendant",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/972aa5663ce0ff9306048a581b997555.png",
+        "product_info": "PND 00214265",
+        "sku": "00214265",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "86",
+        "product_badge": "Necklece",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/9f2829c87af0936ef0b4e6ad33440d9a.png",
+        "product_info": "NCL 00207374",
+        "sku": "00207374",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "149",
+        "product_badge": "Earring",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/bdb14cf622a41f7b260f1d9ef762af63.png",
+        "product_info": "EAR 00230610",
+        "sku": "00230610",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "212",
+        "product_badge": "Bracelet",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/2863018039e1e7a74a6ec32bc15162e6.png",
+        "product_info": "BRC 00125494",
+        "sku": "00125494",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "131",
+        "product_badge": "pendant",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/71b75fccb488530bbd77ec3d47a178a6.png",
+        "product_info": "PND 00160935",
+        "sku": "00160935",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "97",
+        "product_badge": "Mortaesha",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/e153d369fabf28cd1371204bbaf9a182.png",
+        "product_info": "MRTSH 00153024",
+        "sku": "00153024",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "135",
+        "product_badge": "chain",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/a9d4fe43deb0ed0367b5a8cca5a5c0eb.png",
+        "product_info": "GC 00230928",
+        "sku": "00230928",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "99",
+        "product_badge": "Belt",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/963407394b382d88c00f10f83523a1b5.png",
+        "product_info": "BLT 00774417",
+        "sku": "00774417",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "179",
+        "product_badge": "Mortahesha",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/74eeb7e7bb14bea8be2899fe785f520c.png",
+        "product_info": "MTH 00256209",
+        "sku": "00256209",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "255",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/8ead42dd87cab9bb507d5b741a9e66ba.png",
+        "product_info": "GC     00222341",
+        "sku": "00222341",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "54",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/52bba6129d4905b8420aaedfe695c24a.png",
+        "product_info": "GC 00147713",
+        "sku": "00147713",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "25",
+        "product_badge": "Ring",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/6ec302479653c1d33ebdc59b0f55aead.png",
+        "product_info": "00211837",
+        "sku": "00211837",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "45",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/4cc4d88873944800508e372c74e9885b.png",
+        "product_info": "GC 00157984",
+        "sku": "00157984",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "49",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/23e483a7aad088f2d3d9bd70c62123b1.png",
+        "product_info": "GC 00217390",
+        "sku": "00217390",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "70",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/6240ffee1f7c5e4ba0189b5151ffcb15.png",
+        "product_info": "GC 00057148",
+        "sku": "00057148",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "238",
+        "product_badge": "choker",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/3791214c5c074ae95faa00c2f0eaa1e8.png",
+        "product_info": "CHK 00231418",
+        "sku": "00231418",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "241",
+        "product_badge": "choker",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/044e6021d89c3a99d692ebf11bfe9cc1.png",
+        "product_info": "CHK 00331394",
+        "sku": "00331394",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "151",
+        "product_badge": "Earring",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/1b777c2969978160d7edf4bf5660ffc6.png",
+        "product_info": "EAR 00205257",
+        "sku": "00205257",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "134",
+        "product_badge": "chain",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/5bac8f70d7f83d988c7f964db0d367e9.png",
+        "product_info": "GC 00120190",
+        "sku": "00120190",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "43",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/9bafe5b7ebe34c4e547b73cff085d97a.png",
+        "product_info": "GC 00205520",
+        "sku": "00205520",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "272",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/ddb1da1a6723c4de0e39c5c3b26a141a.png",
+        "product_info": "GC     00031309",
+        "sku": "00031309",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "291",
+        "product_badge": "Necklece",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/92827fe08478f04f5e0c62679770c696.png",
+        "product_info": "NCL 00269780",
+        "sku": "00269780",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "209",
+        "product_badge": "Pendant",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/35c7f77f9fe14ace9ce84dd67457d002.png",
+        "product_info": "PND 00155122",
+        "sku": "00155122",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "245",
+        "product_badge": "choker",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/855b64a0494ea7a996f2918ed3293eec.png",
+        "product_info": "CHK 00207365",
+        "sku": "00207365",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "210",
+        "product_badge": "Bracelet",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/13df43bbb0acdfb3639bf337a53c54b2.png",
+        "product_info": "BRC 00169465",
+        "sku": "00169465",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "34",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/c7c35ae880dfa87eea9b50a451649812.png",
+        "product_info": "GC 00142182",
+        "sku": "00142182",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "218",
+        "product_badge": "chain",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/12abd59909ab0da3060f343b749c43cd.png",
+        "product_info": "GC 00032459",
+        "sku": "00032459",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "213",
+        "product_badge": "Rings",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/81ca47e58770e5147f58bd25725ca777.png",
+        "product_info": "GC 00167250",
+        "sku": "00167250",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "79",
+        "product_badge": "pendant",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/ea035e3b43f11a3c6ddbc5c479561751.png",
+        "product_info": "PND 00214089",
+        "sku": "00214089",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "287",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/35cdb06bf0d81869ad98aa3ef3ecac4e.png",
+        "product_info": "GC     00132468",
+        "sku": "00132468",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "215",
+        "product_badge": "Rings",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/ddb609e3e781ab8aef6477fc9c5a8710.png",
+        "product_info": "GC 00167015",
+        "sku": "00167015",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "276",
+        "product_badge": "Rings",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/d8e75292f966e723805cd9b5a4183df8.png",
+        "product_info": "GC 00169445",
+        "sku": "00169445",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "219",
+        "product_badge": "chain",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/7e40cd1aceb4c55810a44a3dd763b9f9.png",
+        "product_info": "GC 00177587",
+        "sku": "00177587",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "163",
+        "product_badge": "Tablat",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/c14bdefc81375ac3ebba325d25f0b0fa.png",
+        "product_info": "TAB 00018870",
+        "sku": "00018870",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "191",
+        "product_badge": "choker",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/b9945c98e3bb404eef8374b65097d3a5.png",
+        "product_info": "CHK 00225435",
+        "sku": "00225435",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "190",
+        "product_badge": "choker",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/6c27dcaade39a38ca33182e0e275fda6.png",
+        "product_info": "CHK 00144659",
+        "sku": "00144659",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "214",
+        "product_badge": "Rings",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/eefd48961f63a759be9cb419e6231054.png",
+        "product_info": "GC 00166994",
+        "sku": "00166994",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "203",
+        "product_badge": "Amayel",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/3673da95f0db494e6493132ffbf69f8b.png",
+        "product_info": "AMA 01",
+        "sku": "AMA 01",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "59",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/aabaa9649f7a03df0a1cf679cd9dd2b0.png",
+        "product_info": "GC 00217493",
+        "sku": "GC 00217493",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "40",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/67a620a32e9e57b763c19b759cc176e0.png",
+        "product_info": "GC 00204717",
+        "sku": "00204717",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "116",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/d2a23502342f6f90a64e5c07b6a1b994.png",
+        "product_info": "GC     00021760",
+        "sku": "00021760",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "273",
+        "product_badge": "Rings",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/8704e75de655aaeac04534f749300c87.png",
+        "product_info": "GC 00187890",
+        "sku": "00187890",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "31",
+        "product_badge": "Ring",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/cbdd802a5f6003e53f825167a07d20be.png",
+        "product_info": "GC 00213648",
+        "sku": "00213648",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "67",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/c81db8795ec8aec44840546c057c2cfc.png",
+        "product_info": "GC 00217512",
+        "sku": "00217512",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "252",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/2bcddfe6ba47228f30b14c6791ad163e.png",
+        "product_info": "GC     00222437",
+        "sku": "00222437",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "118",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/15dadbb6ddea5cbdd86c776837aacc7e.png",
+        "product_info": "GC     00257700",
+        "sku": "00257700",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "268",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/03aadb55f39d088580b13167065a75be.png",
+        "product_info": "GC 00112823",
+        "sku": "00112823",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "108",
+        "product_badge": "Bracelet",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/7cd4e95d0ee742e668a8da1fcdc4ed63.png",
+        "product_info": "BRC 00208022",
+        "sku": "00208022",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "88",
+        "product_badge": "Necklece",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/fed987bc8d1bf21ab85d8db72e0f9000.png",
+        "product_info": "NCL 00207405",
+        "sku": "00207405",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "178",
+        "product_badge": "Mortahesha",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/90d7a47db84b0ee8b7e96831f4ea63d9.png",
+        "product_info": "MTH 00150757",
+        "sku": "00150757",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "84",
+        "product_badge": "pendant",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/e9e1b36199bed7b5b47edc3a04342f1b.png",
+        "product_info": "PND 00214015",
+        "sku": "00214015",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "White",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "234",
+        "product_badge": "Necklece",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/e86dbeaa3fd40f9c1d9029a87f574b54.png",
+        "product_info": "NCL 00231309",
+        "sku": "00231309",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "125",
+        "product_badge": "Bangle",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/e037db4b430109cde127a7f6bda2964a.png",
+        "product_info": "GC 00118631",
+        "sku": "00118631",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "282",
+        "product_badge": "pendant",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/1a8bc40727875a2fb02566a3fc3e87a1.png",
+        "product_info": "PND 00221628",
+        "sku": "00221628",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "147",
+        "product_badge": "Earring",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/a2f550e43f621e9e054f3edea09b0a19.png",
+        "product_info": "EAR 00231730",
+        "sku": "00231730",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "230",
+        "product_badge": "Rings",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/de4d3d1061c90fe4e5d8c95b6dbbadc2.png",
+        "product_info": "GC 00169379",
+        "sku": "00169379",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "246",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/088b862f4158667acd5c0b496a389397.png",
+        "product_info": "GC     00186213",
+        "sku": "00186213",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "82",
+        "product_badge": "pendant",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/004f15316d472096db2901074898955a.png",
+        "product_info": "PND 00214131",
+        "sku": "00214131",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "White",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "28",
+        "product_badge": "Ring",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/dba295be08b4de302c97a3667e7f87c5.png",
+        "product_info": "GC 00073827",
+        "sku": "00073827",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "101",
+        "product_badge": "Belt",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/768670a582b79038b8aff640eae9c079.png",
+        "product_info": "BLT 00120480",
+        "sku": "00120480",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "114",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/a6e9cc29648c7ccff2a68d0751adc767.png",
+        "product_info": "GC     00205562",
+        "sku": "00205562",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "113",
+        "product_badge": "Bracelet",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/07d12e4add391bbad086a40570ad3999.png",
+        "product_info": "BRC 00207361",
+        "sku": "00207361",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "184",
+        "product_badge": "chain",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/d0009cce7576b6168dbfae9fdc7560d9.png",
+        "product_info": "GC 00225428",
+        "sku": "00225428",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "18 K"
+    },
+    {
+        "product_id": "200",
+        "product_badge": "Hairclip",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/19d695549b60fea5a3472c1300065d1a.png",
+        "product_info": "HCL 00214355",
+        "sku": "00214355",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "289",
+        "product_badge": "Necklece",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/ea31f0e9378b3d36e77f98d6eb64b1b6.png",
+        "product_info": "NCL 00118687",
+        "sku": "00118687",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "263",
+        "product_badge": "Necklece",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/3c3b2d12a1a8a131dfd3d3b0735e25c0.png",
+        "product_info": "NCL 00167805",
+        "sku": "00167805",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    },
+    {
+        "product_id": "167",
+        "product_badge": "set",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/3dd0b118dfada21bacef0d4d44400cbb.png",
+        "product_info": "GC     00205224",
+        "sku": "00205224",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "176",
+        "product_badge": "Karasi Necklace",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/a98116eef78b38e6138328a5e61c976f.png",
+        "product_info": "KRS 00179163",
+        "sku": "00179163",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "130",
+        "product_badge": "chain",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/643df81447a5298a49589b9f9b640caf.png",
+        "product_info": "GC 00157105",
+        "sku": "00157105",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Yellow",
+        "metal_purity": "21 K"
+    },
+    {
+        "product_id": "274",
+        "product_badge": "Rings",
+        "img_src": "https://goldcraft.sg/public/frontend-assets/GCJ/images/produit/91678f30cdd83cbfcef2fab2b0ed4000.png",
+        "product_info": "GC 00167250",
+        "sku": "00167250",
+        "brand": "Gold Craft Jewellery",
+        "metal_color": "Diamond",
+        "metal_purity": "Diamond"
+    }
+]
